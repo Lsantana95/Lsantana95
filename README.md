@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Lsantana95/Lsantana95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Me chamo Leonardo, tenho 26 anos e faço o curso de Sistemas de Informação.
+## Me chamo Leonardo, tenho 26 anos e faço o curso de Sistemas de Informação.
 Gosto muito de desenvvolvimento Front End e também gosto de desenvolvimento mobile.
 
 
