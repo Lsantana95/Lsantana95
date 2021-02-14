@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Me chamo Leonardo, tenho 26 anos e faço o curso de Sistemas de Informação.
-Gosto muito de desenvvolvimento Front End e também gosto de desenvolvimento mobile.
+Gosto muito de desenvolvimento Front End e também gosto de desenvolvimento mobile.
 
 
 
