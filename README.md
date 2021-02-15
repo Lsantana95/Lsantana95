@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Me chamo Leonardo, tenho 26 anos e faço o curso de Sistemas de Informação.
+## Olá, me chamo Leonardo, tenho 26 anos e atualmente cursando Sistemas de Informação.
 Estou estudando JavaScript, seus frameworks e bibliotecas para desenvolvimento front end. 
 Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou estudando é o flutter.
 
