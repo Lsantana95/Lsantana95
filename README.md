@@ -20,7 +20,7 @@ Estou estudando JavaScript, seus frameworks e bibliotecas para desenvolvimento f
 Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou estudando é o flutter.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:// https://www.instagram.com/leonardosantanav95/?hl=pt-br)]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https:// https://www.instagram.com/leonardosantanav95/?hl=pt-br)] (https://https://www.instagram.com/leonardosantanav95/?hl=pt-br)
 
 
 
