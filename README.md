@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 Estou estudando JavaScript, seus frameworks e bibliotecas para desenvolvimento front end. 
 Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou estudando é o flutter.
 
+### Estudando atualmente:
+
+- ReactJS;
+- React Native;
+- NextJs;
+- TypeScript;
+- Flutter (desenvolvimento de apps para Android e IOS)
