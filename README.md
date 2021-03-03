@@ -26,3 +26,8 @@ Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou 
 - NextJs;
 - TypeScript;
 - Flutter (desenvolvimento de apps para Android e IOS)
+
+### Habilidades:
+
+- HTML5;
+- CSS3;
