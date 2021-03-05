@@ -31,3 +31,11 @@ Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou 
 
 - HTML5;
 - CSS3;
+
+### Para entrar em contato comigo apenas me adicionar em minhas redes sociais e e-mail:
+
+- <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202">Linkedin</a>
+- <a href="https://www.instagram.com/leonardosantanav95/">Instagram</a>
+- <a href="https://www.facebook.com/leonardosantanav">Facebook</a>
+- <a href="https://www.leonardosantanav78@gmail.com">E-mail</a>
+- <a href="https://app.rocketseat.com.br/me/leonardo-e-santana-viruez-01228">Rocketseat</a>
