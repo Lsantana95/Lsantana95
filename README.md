@@ -22,9 +22,7 @@ Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou 
 ### Estudando atualmente:
 
 - ReactJS;
-- React Native;
 - NextJs;
-- TypeScript;
 - Flutter (desenvolvimento de apps para Android e IOS)
 
 ### Habilidades:
