@@ -21,6 +21,7 @@ Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou 
 
 ### Estudando atualmente:
 
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - ReactJS;
 - NextJs;
 - Flutter (desenvolvimento de apps para Android e IOS)
