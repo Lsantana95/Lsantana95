@@ -20,8 +20,7 @@ Estou estudando JavaScript, seus frameworks e bibliotecas para desenvolvimento f
 Nas horas vagas, estudo também desenvolvimento mobile e a tecnologia que estou estudando é o flutter.
 
 ### Estudando atualmente:
-
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- JavaScript;
 - ReactJS;
 - NextJs;
 - Flutter (desenvolvimento de apps para Android e IOS)
