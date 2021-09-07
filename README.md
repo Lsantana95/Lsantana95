@@ -48,8 +48,22 @@ Here are some ideas to get you started:
 
 ### Para entrar em contato comigo apenas me adicionar em minhas redes sociais e e-mail:
 
-- <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- <a href="https://www.instagram.com/leonardosantanav95/">Instagram</a>
-- <a href="https://www.facebook.com/leonardosantanav">Facebook</a>
-- <a href="https://www.leonardosantanav78@gmail.com">E-mail</a>
-- <a href="https://app.rocketseat.com.br/me/leonardo-e-santana-viruez-01228">Rocketseat</a>
+ <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://www.instagram.com/leonardosantanav95/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ <a href="https://www.leonardosantanav78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"            target="_blank"></a>
+  
+   ![Snake animation](https://github.com/Lsantana95/Lsantana95/blob/output/github-contribution-grid-snake.svg)
+   
+  </div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
