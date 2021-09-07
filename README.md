@@ -15,21 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, me chamo Leonardo, tenho 26 anos e atualmente cursando Sistemas de Informação.
-Sou um entusiasta do desenvolvimento Front End, e por isso estudo atualmente JavaScript e React JS.
+## Olá, me chamo Leonardo, atualmente graduando em Sistemas de Informação. Sou apaixonado pelo desenvolvimento Front End e suas tecnologias.
+
+<div>
+  <a href= https://github.com/Lsantana95>
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lsantana95&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lsantana95&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+  
+</div>
+
 
 ### Estudando atualmente:
-- JavaScript;
-- ReactJS;
 
-### Habilidades:
-
-- HTML5;
-- CSS3;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  </div>
+  
+  ### Ferramentas:
+  
+  ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+   <img align="center" alt="Leo-VSCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  
 
 ### Para entrar em contato comigo apenas me adicionar em minhas redes sociais e e-mail:
 
-- <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202">Linkedin</a>
+- <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - <a href="https://www.instagram.com/leonardosantanav95/">Instagram</a>
 - <a href="https://www.facebook.com/leonardosantanav">Facebook</a>
 - <a href="https://www.leonardosantanav78@gmail.com">E-mail</a>
