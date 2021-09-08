@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 
+![fron-end-developer](https://user-images.githubusercontent.com/68453738/132424032-e460f669-fbe0-45fe-be49-4d86e3e67089.jpg)
 
 
 
