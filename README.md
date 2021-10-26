@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hey sejam todos bem vindos(a) ao meu perfil!
 ### Me chamo Leonardo, atualmente graduando em Sistemas de Informação. Sou apaixonado pelo desenvolvimento Front End e suas tecnologias.
 
-### Caso queiram  entrar em contato comigo podem me seguir en minhas redes socias e email:
+### Caso queiram  entrar em contato comigo podem me seguir em minhas redes socias e email:
 
 -  <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
