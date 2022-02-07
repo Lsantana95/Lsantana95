@@ -18,8 +18,16 @@ Here are some ideas to get you started:
 ## Olá, me chamo Leonardo 
 
 ### Graduando em Sistemas de Informação
+
+##
+
 ### Desenvolvedor Front End 
+
+##
+
 ### Minhas Redes Sociais:
+
+##
 
   <a href="https://www.linkedin.com/in/leonardo-santana-2460a8202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
