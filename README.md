@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, me chamo Leonardo 
-
-### Graduando em Sistemas de Informação
-
-##
-
-### Desenvolvedor Front End 
+## Olá, me chamo Leonardo, estudante de desenvolvimento web front end  e graduando no curso de Sistemas de Informação.
 
 ##
 
